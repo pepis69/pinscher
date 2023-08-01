@@ -8,7 +8,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&locale=en&theme=radical"                
     alt="pepis69"/>
   
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=dsouloficial&theme=radical" alt="pepis69" />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=dsouloficial&theme=radical" alt="dsouloficial" />
 </p> 
 ### Tecnologias que eu uso no meu dia a dia 
 
