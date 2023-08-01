@@ -2,7 +2,7 @@
 
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_emanuel_r)
-[![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCIRBdF7Yp7-hAG5NEfQdS4g)
+
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&show_icons=true&locale=en&theme=radical"                
