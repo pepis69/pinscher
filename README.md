@@ -1,4 +1,4 @@
-### ola! Eu sou Pedro Emanuel Formado em garoto de programa web!
+### ola! Eu sou Pedro Emanuel!
 
 
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_emanuel_r)
